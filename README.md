@@ -17,7 +17,7 @@ Our model takes patient health parameters as input and predicts diabetes risk wi
 🔹 **Jupyter Notebook** 📓  
 
 ## 📂 Dataset  
-We used the **Pima Indians Diabetes Dataset** 🏥 from Kaggle/UCI, containing medical records like:  
+We used the **JohnDaSilva's Diabetes Dataset** 🏥 from Kaggle/UCI, containing medical records like:  
 ✔️ Glucose Level  
 ✔️ Blood Pressure  
 ✔️ BMI  
@@ -30,8 +30,6 @@ We trained multiple models and compared their performance:
 📌 **Random Forest** - Handles non-linearity well 🌲  
 📌 **SVM** - Great for high-dimensional data 🔄  
 📌 **KNN** - Distance-based classification 🔍  
-
-🎯 **Final Model Accuracy:** [XX]% (mention the best accuracy achieved)  
 
 ## 🎨 Visualizations  
 🔸 Heatmaps to show correlations 🔥  
